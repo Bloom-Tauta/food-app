@@ -1,0 +1,15 @@
+.footer {
+    min-height: 70vh;
+
+}
+
+.footer_text h3 {
+    padding-top: 2px;
+}
+
+.footer_component address {
+    margin-top: 2rem;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+}
